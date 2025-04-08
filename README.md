@@ -6,9 +6,9 @@ This project presents a **flood monitoring dashboard** developed using **Power B
 
 ## Key Features
 
-- Real-time rainfall and river level monitoring  
+- Real rainfall and river level monitoring  
 - Interactive visualizations  
-- Identification of flood-prone areas  
+- Identification of High, Medium and Low Risk Threshold 
 - Designed for disaster risk reduction and community response
 
 ---
