@@ -16,7 +16,7 @@ This project presents a **flood monitoring dashboard** developed using **Power B
 ## Tools Used
 
 - **Power BI** – Dashboard development & visualization  
-- **Remote Sensing Data** – For spatial analysis  
+- **Remote Sensing Data** – For data acquisition 
   
 
 ---
