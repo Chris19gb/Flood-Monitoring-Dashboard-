@@ -35,6 +35,9 @@ Developed by **Christopher Gama**
 Water Resources Management & Development | Environmental Monitoring | Data Visualization
 
 ---
+![Dashboard Preview](FloodMonitoringDashboard.png)
+
+---
 
 ## License
 
